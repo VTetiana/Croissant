@@ -17,4 +17,12 @@ a {
   display: block;
   margin: 30px auto;
   border-radius: 10px;
+  max-width: 50%;
+}
+
+p {
+  text-align: center;
+}
+.email {
+  color: blue;
 }
